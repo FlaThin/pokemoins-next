@@ -1,0 +1,234 @@
+[
+    {
+        "pokedex": 1,
+        "name": "bulbasaur",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "type": "grass - poison",
+        "weight": 69,
+        "abilities": "overgrow - chlorophyll"
+    },
+    {
+        "pokedex": 2,
+        "name": "ivysaur",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "type": "grass - poison",
+        "weight": 130,
+        "abilities": "overgrow - chlorophyll"
+    },
+    {
+        "pokedex": 3,
+        "name": "venusaur",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+        "type": "grass - poison",
+        "weight": 1000,
+        "abilities": "overgrow - chlorophyll"
+    },
+    {
+        "pokedex": 4,
+        "name": "charmander",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "type": "fire",
+        "weight": 85,
+        "abilities": "blaze - solar-power"
+    },
+    {
+        "pokedex": 5,
+        "name": "charmeleon",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+        "type": "fire",
+        "weight": 190,
+        "abilities": "blaze - solar-power"
+    },
+    {
+        "pokedex": 6,
+        "name": "charizard",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "type": "fire - flying",
+        "weight": 905,
+        "abilities": "blaze - solar-power"
+    },
+    {
+        "pokedex": 7,
+        "name": "squirtle",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+        "type": "water",
+        "weight": 90,
+        "abilities": "torrent - rain-dish"
+    },
+    {
+        "pokedex": 8,
+        "name": "wartortle",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+        "type": "water",
+        "weight": 225,
+        "abilities": "torrent - rain-dish"
+    },
+    {
+        "pokedex": 9,
+        "name": "blastoise",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+        "type": "water",
+        "weight": 855,
+        "abilities": "torrent - rain-dish"
+    },
+    {
+        "pokedex": 10,
+        "name": "caterpie",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+        "type": "bug",
+        "weight": 29,
+        "abilities": "shield-dust - run-away"
+    },
+    {
+        "pokedex": 11,
+        "name": "metapod",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+        "type": "bug",
+        "weight": 99,
+        "abilities": "shed-skin"
+    },
+    {
+        "pokedex": 12,
+        "name": "butterfree",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+        "type": "bug - flying",
+        "weight": 320,
+        "abilities": "compound-eyes - tinted-lens"
+    },
+    {
+        "pokedex": 13,
+        "name": "weedle",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+        "type": "bug - poison",
+        "weight": 32,
+        "abilities": "shield-dust - run-away"
+    },
+    {
+        "pokedex": 14,
+        "name": "kakuna",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+        "type": "bug - poison",
+        "weight": 100,
+        "abilities": "shed-skin"
+    },
+    {
+        "pokedex": 15,
+        "name": "beedrill",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+        "type": "bug - poison",
+        "weight": 295,
+        "abilities": "swarm - sniper"
+    },
+    {
+        "pokedex": 16,
+        "name": "pidgey",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+        "type": "normal - flying",
+        "weight": 18,
+        "abilities": "keen-eye - tangled-feet - big-pecks"
+    },
+    {
+        "pokedex": 17,
+        "name": "pidgeotto",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+        "type": "normal - flying",
+        "weight": 300,
+        "abilities": "keen-eye - tangled-feet - big-pecks"
+    },
+    {
+        "pokedex": 18,
+        "name": "pidgeot",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+        "type": "normal - flying",
+        "weight": 395,
+        "abilities": "keen-eye - tangled-feet - big-pecks"
+    },
+    {
+        "pokedex": 19,
+        "name": "rattata",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+        "type": "normal",
+        "weight": 35,
+        "abilities": "run-away - guts - hustle"
+    },
+    {
+        "pokedex": 20,
+        "name": "raticate",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+        "type": "normal",
+        "weight": 185,
+        "abilities": "run-away - guts - hustle"
+    },
+    {
+        "pokedex": 21,
+        "name": "spearow",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+        "type": "normal - flying",
+        "weight": 20,
+        "abilities": "keen-eye - sniper"
+    },
+    {
+        "pokedex": 22,
+        "name": "fearow",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+        "type": "normal - flying",
+        "weight": 380,
+        "abilities": "keen-eye - sniper"
+    },
+    {
+        "pokedex": 23,
+        "name": "ekans",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+        "type": "poison",
+        "weight": 69,
+        "abilities": "intimidate - shed-skin - unnerve"
+    },
+    {
+        "pokedex": 24,
+        "name": "arbok",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+        "type": "poison",
+        "weight": 650,
+        "abilities": "intimidate - shed-skin - unnerve"
+    },
+    {
+        "pokedex": 25,
+        "name": "pikachu",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+        "type": "electric",
+        "weight": 60,
+        "abilities": "static - lightning-rod"
+    },
+    {
+        "pokedex": 26,
+        "name": "raichu",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+        "type": "electric",
+        "weight": 300,
+        "abilities": "static - lightning-rod"
+    },
+    {
+        "pokedex": 27,
+        "name": "sandshrew",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+        "type": "ground",
+        "weight": 120,
+        "abilities": "sand-veil - sand-rush"
+    },
+    {
+        "pokedex": 28,
+        "name": "sandslash",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+        "type": "ground",
+        "weight": 295,
+        "abilities": "sand-veil - sand-rush"
+    },
+    {
+        "pokedex": 29,
+        "name": "nidoran-f",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+        "type": "poison",
+        "weight": 70,
+        "abilities": "poison-point - rivalry - hustle"
+    }
+]
